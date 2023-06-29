@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8b7b3fc8.css",
+    "main.js": "/static/js/main.bf5e8152.js",
+    "static/media/Corbel-Bold.ttf": "/static/media/Corbel-Bold.9c0f56b0d13b1a24a884.ttf",
+    "static/media/reader.jpg": "/static/media/reader.a33e738448f391eb2c67.jpg",
+    "static/media/reportimg3.jpg": "/static/media/reportimg3.29e42331c22c8c97b7be.jpg",
+    "static/media/img2.jpg": "/static/media/img2.af721fb64b4da5c58a35.jpg",
+    "static/media/reportimg5.jpg": "/static/media/reportimg5.e2f3d9dcb0d40990f474.jpg",
+    "static/media/img1.png": "/static/media/img1.6de5d4281ae3c0e127eb.png",
+    "static/media/reportimg4.jpg": "/static/media/reportimg4.420f1f00a37c73b5d458.jpg",
+    "static/media/reportimg1.jpg": "/static/media/reportimg1.5f6e39c630fda8f1f8de.jpg",
+    "static/media/reportimg2.jpg": "/static/media/reportimg2.58252bb45500c4e687b6.jpg",
+    "static/media/reportimg6.jpg": "/static/media/reportimg6.3023c3837cc0a117554d.jpg",
+    "static/media/cassettes.jpg": "/static/media/cassettes.627928a955af681098c8.jpg",
+    "static/media/maintenance-3.svg": "/static/media/maintenance-3.a4dcbe01500e99033792c7d5a137c8d6.svg",
+    "static/media/maintenance-2.svg": "/static/media/maintenance-2.4ac4de96c0b9f6c354be49fddd81aa82.svg",
+    "static/media/ip-icon.svg": "/static/media/ip-icon.c189f4f6ce683a20b5a383bd0b32dd13.svg",
+    "static/media/eos-icons_ip.svg": "/static/media/eos-icons_ip.08875072f2bc3c826297da8a0dd10804.svg",
+    "static/media/bi_question-diamond.svg": "/static/media/bi_question-diamond.5cab3de724dcd7704ef6b7fe47a45a5f.svg",
+    "static/media/maintenance-1.svg": "/static/media/maintenance-1.59b48f6ec5ab0bd296c973f0e7a91730.svg",
+    "static/media/Cassette.svg": "/static/media/Cassette.d41098b5e6b9cb07fad64092a108f289.svg",
+    "static/media/mdi-light_ereader.svg": "/static/media/mdi-light_ereader.5d8b630aa438a1e2f99013905888ce32.svg",
+    "static/media/firewall-icon.svg": "/static/media/firewall-icon.a458ccbbd50a41f8c76569b7100e12c2.svg",
+    "static/media/Maintenance.svg": "/static/media/Maintenance.abee24b33184587d53832c114fe568b3.svg",
+    "static/media/info.svg": "/static/media/info.63b37207fd308645b7d6a7ba34592d4e.svg",
+    "static/media/support-agent.svg": "/static/media/support-agent.8d49199a69ec2e17121e323b6dc58185.svg",
+    "static/media/alert.svg": "/static/media/alert.8d78abefddecd483b2e93ed15f9fa968.svg",
+    "static/media/Order.svg": "/static/media/Order.d2409d99e639624c6ed7cc81bad72bb7.svg",
+    "static/media/location-icon.svg": "/static/media/location-icon.19ef2fd93e0dd2fc4d2b36686f43a0e9.svg",
+    "static/media/System Set-Up.svg": "/static/media/System Set-Up.70dfa77e60b4aee99a3fdb8c66ccd815.svg",
+    "index.html": "/index.html",
+    "static/media/Reports.svg": "/static/media/Reports.80aa8559a8aef1c730e5c369c0ed2767.svg",
+    "static/media/ic_baseline-business-center.svg": "/static/media/ic_baseline-business-center.7f3702d84990f64b093cf29e09e6f566.svg",
+    "static/media/charm_menu-hamburger.svg": "/static/media/charm_menu-hamburger.f5f7d748c4cf15fe37ab0489b946cf98.svg",
+    "main.8b7b3fc8.css.map": "/static/css/main.8b7b3fc8.css.map",
+    "main.bf5e8152.js.map": "/static/js/main.bf5e8152.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b7b3fc8.css",
+    "static/js/main.bf5e8152.js"
+  ]
+}
