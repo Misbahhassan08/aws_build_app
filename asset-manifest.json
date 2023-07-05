@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.308ffb90.css",
-    "main.js": "/static/js/main.d49723ab.js",
+    "main.js": "/static/js/main.8e1f1be8.js",
     "static/media/Corbel-Bold.ttf": "/static/media/Corbel-Bold.9c0f56b0d13b1a24a884.ttf",
     "static/media/reader.jpg": "/static/media/reader.a33e738448f391eb2c67.jpg",
     "static/media/reportimg3.jpg": "/static/media/reportimg3.29e42331c22c8c97b7be.jpg",
@@ -34,10 +34,10 @@
     "static/media/ic_baseline-business-center.svg": "/static/media/ic_baseline-business-center.7f3702d84990f64b093cf29e09e6f566.svg",
     "static/media/charm_menu-hamburger.svg": "/static/media/charm_menu-hamburger.f5f7d748c4cf15fe37ab0489b946cf98.svg",
     "main.308ffb90.css.map": "/static/css/main.308ffb90.css.map",
-    "main.d49723ab.js.map": "/static/js/main.d49723ab.js.map"
+    "main.8e1f1be8.js.map": "/static/js/main.8e1f1be8.js.map"
   },
   "entrypoints": [
     "static/css/main.308ffb90.css",
-    "static/js/main.d49723ab.js"
+    "static/js/main.8e1f1be8.js"
   ]
 }
